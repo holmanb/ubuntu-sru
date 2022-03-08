@@ -1,4 +1,4 @@
-Ubuntu SRU bionic, focal, hirsute for cloud-init 21.4-0
+Ubuntu SRU bionic, focal, impish for cloud-init 22.1-14
 =====
 This Readme hosts the manual SRU verification logs for bugs related to the cloud-init SRU started on 2022/03/07
 
